@@ -159,8 +159,6 @@ if wa_mx == 'vasemaker':
     if WL == 'rickroll':
         webbrowser.open('youtube.com/watch/xvFZjo5PgG0')
         print('done!')
-    if WL ==
-
     else:
         webbrowser.open(WL)
         print('done!')
